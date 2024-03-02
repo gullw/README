@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Hello my name is Gustavo i am brazilian living in Ceara. <br><br> i had my first contact with Python programming in 2023. <br><br> <strong>I Back-end</strong>.<br>
+  Hello my name is Gustavo i am brazilian living in Ceara. <br><br>I had my first contact with Python programming in 2023 as a <strong>Back-end.</strong>.<br>
   <br>
   I'm currently in my third year of high school
 </p>
