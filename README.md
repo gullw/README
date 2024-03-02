@@ -2,11 +2,12 @@
 
 <p align="left"> 
   Hello my name is Gustavo i am brazilian living in Ceara <br> i had my first contact with Python programming in 2023. <br> <strong>I Back-end</strong>.<br>
+  <br>
   I'm currently in my third year of high school
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Currently only python.**
+  🦄 Linguagens: <strong>Currently only python.</strong>
 </p>
 
 <p align="left">
